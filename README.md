@@ -79,6 +79,7 @@ Developer resources for accessing and automating analytics workflows.
 - [Google Analytics Query Explorer](https://ga-dev-tools.google/query-explorer/) — Analytics query testing tool.
 - [Google Cloud SDK](https://cloud.google.com/sdk) — Command-line tools for Google Cloud services.
 - [MCP Server for Google Analytics](https://github.com/modelcontextprotocol/servers) — Community projects enabling analytics access through MCP.
+- [RegexLab](https://regextester.site/) — Free browser-only regex tester built for GA4: full-match RE2 patterns, match/no-match per line, and a copy-paste pattern library.
 
 ## Integrations
 
